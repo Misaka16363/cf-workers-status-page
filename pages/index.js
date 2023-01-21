@@ -90,7 +90,7 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
         })}
         <div className="flex flex-row justify-between mt-4 text-sm">
           <div>
-            Powered by{' '}
+            支持：{' '}
             <a href="https://workers.cloudflare.com/" target="_blank">
               Cloudflare Workers{' '}
             </a>
@@ -104,7 +104,7 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
               href="https://github.com/eidam/cf-workers-status-page"
               target="_blank"
             >
-              Get Your Status Page
+              获取你的状态页面
             </a>
           </div>
         </div>
