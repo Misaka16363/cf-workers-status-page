@@ -11,7 +11,7 @@ settings:
   monitorLabelNotOperational: '停止运行'
   monitorLabelNoData: '暂无数据'
   dayInHistogramNoData: '暂无数据'
-  dayInHistogramOperational: 'All good'
+  dayInHistogramOperational: '正常'
   dayInHistogramNotOperational: ' incident(s)' # xx incident(s) recorded
 
 monitors:
