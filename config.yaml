@@ -2,7 +2,7 @@ settings:
   title: '状态监控页'
   url: 'https://status.elaina.me' # used for Slack messages
   logo: logo-192x192.png # image in ./public/ folder
-  daysInHistogram: 180 # number of days you want to display in histogram
+  daysInHistogram: 90 # number of days you want to display in histogram
   collectResponseTimes: true # collects avg response times from CRON locations
 
   allmonitorsOperational: '一切正常'
